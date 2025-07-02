@@ -1,0 +1,62 @@
+{
+  "Upload Portfolio CSV": {
+    "en": "Upload Portfolio CSV",
+    "ta": "போர்ட்ஃபோலியோ CSV ஐ பதிவேற்றவும்"
+  },
+  "Select Language": {
+    "en": "Select Language",
+    "ta": "மொழியைத் தேர்ந்தெடுக்கவும்"
+  },
+  "Select Portfolio": {
+    "en": "Select Portfolio",
+    "ta": "போர்ட்ஃபோலியோவைத் தேர்ந்தெடுக்கவும்"
+  },
+  "Select Member": {
+    "en": "Select Member",
+    "ta": "உறுப்பினரைத் தேர்ந்தெடுக்கவும்"
+  },
+  "Select Sector": {
+    "en": "Select Sector",
+    "ta": "துறையைத் தேர்ந்தெடுக்கவும்"
+  },
+  "Select Broker": {
+    "en": "Select Broker",
+    "ta": "ப்ரோக்கரை தேர்ந்தெடுக்கவும்"
+  },
+  "Portfolio Summary": {
+    "en": "Portfolio Summary",
+    "ta": "போர்ட்ஃபோலியோச் சுருக்கம்"
+  },
+  "Investment": {
+    "en": "Investment",
+    "ta": "மூலம் முதலீடு"
+  },
+  "Current Value": {
+    "en": "Current Value",
+    "ta": "தற்போதைய மதிப்பு"
+  },
+  "HPR": {
+    "en": "HPR",
+    "ta": "தக்கவைப்பு வருமானம்"
+  },
+  "Summary Table": {
+    "en": "Summary Table",
+    "ta": "சுருக்க அட்டவணை"
+  },
+  "Investment Allocation": {
+    "en": "Investment Allocation",
+    "ta": "மூலதன ஒதுக்கீடு"
+  },
+  "Allocation by": {
+    "en": "Allocation by",
+    "ta": "இதன்மூலம் ஒதுக்கப்பட்டது"
+  },
+  "Detailed Holdings": {
+    "en": "Detailed Holdings",
+    "ta": "விவரமான பங்குகள்"
+  },
+  "Summarize By": {
+    "en": "Summarize By",
+    "ta": "இதன்மூலம் சுருக்கவும்"
+  }
+}

@@ -1,0 +1,27 @@
+give python code with streamlit based on a sample file uploaded 
+1. to build a dashboard on stock holding and return information 
+2. based data from a csv file with fields(Portfolio	,Broker,	Member Code	,ISIN Code	,Stock  Name	,Sector Name	,GICS Code	,Qty	,Value At Cost	,Value At Market Price) 
+2A. A josn file member-mapping to have mapping for member code with member name .  This will have option for English and Tamil names . portfolio data file will refer to member code for name in this for english or Tamil
+2B. A josn file sector-mapping to have mapping for GICS code with sector name .  This will have option for English and Tamil names . portfolio data file will refer to sector code for name in this for english or Tamil
+2C. A josn file stock-mapping to have mapping for stock ISIN code with stock name .  This will have option for English and Tamil names . portfolio data file will refer to ISIN code for name in this for english or Tamil
+2D. A josn file titles to have mapping for portfolio names and other title lables in both English and Tamil 
+3. to show a portfolio 
+3A. total summary (one liner) , 
+3B. summary table (aggregation values alone) , 
+3C. detail table , 
+3D. Visual charts like pie chart 
+4. Portfolio total summary line to show the Sum(Value At Cost) as Investment, sum(Value At Market Price) Current Value, Holding period return percentage
+5. summary table to show portfolio as header with following fields Member Sum(Value At Cost) as Investment, sum(Value At Market Price) Current Value, HPR(Holding period return percentage) 
+6. Give the option to summarise based on member or sector or broker
+7. the HPR is a calculated field based on formula of ( ( sum(Value At Market Price) - Sum(Value At Cost) ) / Sum(Value At Cost) * 100 represented as percentage 
+8. option for selection filter of family members or broker or sector or stock code 
+9. currency formatting to be Indian rupee with right aligned  for Value At Market Price and Value At Cost 
+10. HPR % to be 2 decimal precision 
+11. add conditional formatting for negative returns % 
+12. Sort order for dash board is to show family member wise, sector wise , broker wise, stock code wise . 
+13. Initial sort order to be member 
+14. To include multi lingual support with English and Tamil based on Json file for titles and table headings and other lables
+15. Detail table to contain member name, broker name, sector code, stock code, quantity, invested amount, current value, Holding period, HPR - Holding period return percentage. 
+16. Option for selection filter for portfolio , family member , sector , broker
+17. Show option to change the input file with upload file option  
+18. Input file for portfolio will be have a default name as portfolio_101 in csv format in a default folder data . which can be changed upon upload option 

@@ -1,0 +1,146 @@
+{
+  "Automobile": {
+    "en": "Automobile",
+    "ta": "மோட்டார் வாகனங்கள்",
+    "primary_identifier": {
+      "gics_code": "251020",
+      "gics_name": "Automobile Manufacturers"
+    }
+  },
+  "Banks": {
+    "en": "Banks",
+    "ta": "வங்கிகள்",
+    "primary_identifier": {
+      "gics_code": "401010",
+      "gics_name": "Banks"
+    }
+  },
+  "BFSI": {
+    "en": "BFSI",
+    "ta": "வங்கி மற்றும் நிதிச் சேவைகள்",
+    "primary_identifier": {
+      "gics_code": "40",
+      "gics_name": "Financials"
+    }
+  },
+  "Chemicals & Fertilisers": {
+    "en": "Chemicals & Fertilisers",
+    "ta": "வேதியியல் மற்றும் உரங்கள்",
+    "primary_identifier": {
+      "gics_code": "151010",
+      "gics_name": "Chemicals"
+    }
+  },
+  "Engineering & Capital Goods": {
+    "en": "Engineering & Capital Goods",
+    "ta": "பொறியியல் மற்றும் மூலதன பொருட்கள்",
+    "primary_identifier": {
+      "gics_code": "201050",
+      "gics_name": "Construction & Engineering"
+    }
+  },
+  "Entertainment": {
+    "en": "Entertainment",
+    "ta": "கலை மற்றும் பொழுதுபோக்கு",
+    "primary_identifier": {
+      "gics_code": "502020",
+      "gics_name": "Movies & Entertainment"
+    }
+  },
+  "FMCG": {
+    "en": "FMCG",
+    "ta": "விரைவாக நகரும் நுகர்வோர் பொருட்கள்",
+    "primary_identifier": {
+      "gics_code": "303010",
+      "gics_name": "Personal Products"
+    }
+  },
+  "Gold-ETF": {
+    "en": "Gold ETF",
+    "ta": "தங்க ETF",
+    "primary_identifier": {
+      "gics_code": "9991",
+      "gics_name": "Gold ETF"
+    }
+  },
+  "Index-ETF": {
+    "en": "Index ETF",
+    "ta": "குழும ETF",
+    "primary_identifier": {
+      "gics_code": "9997",
+      "gics_name": "Index ETF"
+    }
+  },
+  "Information Technology": {
+    "en": "Information Technology",
+    "ta": "தகவல் தொழில்நுட்பம்",
+    "primary_identifier": {
+      "gics_code": "45",
+      "gics_name": "Information Technology"
+    }
+  },
+  "Metals & Minerals": {
+    "en": "Metals & Minerals",
+    "ta": "உலோகங்கள் மற்றும் தாதுக்கள்",
+    "primary_identifier": {
+      "gics_code": "151040",
+      "gics_name": "Metals & Mining"
+    }
+  },
+  "Miscellaneous": {
+    "en": "Miscellaneous",
+    "ta": "இதரவை",
+    "primary_identifier": {
+      "gics_code": "255040",
+      "gics_name": "Miscellaneous"
+    }
+  },
+  "Pharma & Healthcare": {
+    "en": "Pharma & Healthcare",
+    "ta": "மருந்து மற்றும் மருத்துவம்",
+    "primary_identifier": {
+      "gics_code": "35",
+      "gics_name": "Health Care"
+    }
+  },
+  "Power Generation & Distribution": {
+    "en": "Power Generation & Distribution",
+    "ta": "மின் உற்பத்தி மற்றும் விநியோகம்",
+    "primary_identifier": {
+      "gics_code": "551010",
+      "gics_name": "Electric Utilities"
+    }
+  },
+  "Refineries & Oil-Gas": {
+    "en": "Refineries & Oil-Gas",
+    "ta": "ஆயில்கள் மற்றும் எரிவாயு",
+    "primary_identifier": {
+      "gics_code": "101020",
+      "gics_name": "Oil, Gas & Consumable Fuels"
+    }
+  },
+  "Shipping & Logistics": {
+    "en": "Shipping & Logistics",
+    "ta": "கப்பல் மற்றும் மாதிரிமுறை",
+    "primary_identifier": {
+      "gics_code": "203010",
+      "gics_name": "Air Freight & Logistics"
+    }
+  },
+  "Silver-ETF": {
+    "en": "Silver ETF",
+    "ta": "வெள்ளி ETF",
+    "primary_identifier": {
+      "gics_code": "9992",
+      "gics_name": "Silver ETF"
+    }
+  },
+  "Steel": {
+    "en": "Steel",
+    "ta": "உலோக எஃகு",
+    "primary_identifier": {
+      "gics_code": "151040",
+      "gics_name": "Metals & Mining"
+    }
+  }
+}
